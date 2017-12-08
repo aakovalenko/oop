@@ -15,10 +15,11 @@ class Student
 
     private $attributes = [];
 
-    public static function createOchn($lastName, $firstName)
+    public static function createOchn($lastName,$firstName)
     {
         return new self($lastName, $firstName, self::TYPE_OCHN);
     }
+
 
     public static function createZaOchn($lastName, $firstName)
     {
@@ -33,11 +34,11 @@ class Student
         ];
     }
 
-    public function __construct($lastName, $firstName, $type)
+    public function __construct($lastName, $firstName, $type = null)
     {
         $this->lastName = $lastName;
         $this->firstName = $firstName;
-        $this->type = $type;
+        $this->type = $type ? $type : self::TYPE_OCHN;
     }
 
     public function __call($name, $args)
@@ -81,6 +82,17 @@ class Student
         $this->lastName = $lastName;
         $this->firstName = $firstName;
     }
+    //--------------------------------------------------------
+    public function rename(string $lastname)
+    {
+        $this->lastName = $lastname;                         //если число то вызов где int, строка вызов где string
+    }
+
+    public function rename(int $lastname)
+    {
+        $this->lastName = $lastname;
+    }
+//--------------------------------------------------------
 
     public function getLastName()
     {

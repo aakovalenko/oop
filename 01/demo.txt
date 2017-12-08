@@ -1,0 +1,11 @@
+
+var
+    a: integer;
+    b: real;
+    c: real;
+    d: string
+
+begin
+    c := a + b;
+    c := a - d;
+    c := a / b;
