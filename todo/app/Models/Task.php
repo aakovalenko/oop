@@ -41,6 +41,14 @@ class Task
 
     public function getDue()
     {
+        if (!$this->due instanceof DateTime) {
+            return new DateTime($this->due);
+        }
         return $this->due;
+    }
+
+    public function getId()
+    {
+        return $this->id;
     }
 }
