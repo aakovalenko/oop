@@ -10,7 +10,7 @@ require 'vendor'.DIRECTORY_SEPARATOR.'autoload.php';
 //$task->setDue(new DateTime('+ 2 days'));
 
 try{
-    $db = new PDO('mysql:host=127.0.0.1;dbname=todo','andrii','1');
+    $db = new PDO('mysql:host=127.0.0.1; dbname=todo','andrii','1');
 } catch(PDOException $e) {
     die($e->getMessage('No connection'));
 }
@@ -27,10 +27,14 @@ foreach ($tasks->fetchAll() as $task) {
 }*/
 
 $storage = new MySqlDatabaseTaskStorage($db);
-var_dump($storage);
 
-$tasks = $storage->all();
-var_dump($tasks);
+
+$task = new Task();
+$task->setDescription('Learn oop');
+$task->setDue(new DateTime('+ 3 days'));
+$task->setComplete(1);
+
+$storage->store($task);
 
 
 
