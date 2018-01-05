@@ -30,11 +30,13 @@ $storage = new MySqlDatabaseTaskStorage($db);
 
 
 $task = new Task();
-$task->setDescription('Learn oop');
-$task->setDue(new DateTime('+ 3 days'));
+$task->setDescription('Drink coffee ');
+$task->setDue(new DateTime('+ 10 minutes'));
 $task->setComplete(1);
 
-$storage->store($task);
+$taskId = $storage->store($task);
+
+var_dump($storage->get($taskId));
 
 
 

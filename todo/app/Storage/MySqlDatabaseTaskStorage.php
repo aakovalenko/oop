@@ -40,6 +40,19 @@ class MySqlDatabaseTaskStorage implements TaskStorageInterface
 
     public function get($id)
     {
+        $statement = $this->db->prepare("
+            SELECT id, description, due, complete
+            FROM tasks
+            WHERE id = :id
+        ");
+
+        $statement->setFetchMode(PDO::FETCH_CLASS, Task::class);
+
+        $statement->execute([
+            'id' => $id,
+        ]);
+
+        return $statement->fetch();
 
     }
 

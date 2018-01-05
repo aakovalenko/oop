@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f3f3ad9b-e7dc-4410-9665-4be51046a00a" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/todo/app/Storage/MySqlDatabaseTaskStorage.php" afterPath="$PROJECT_DIR$/todo/app/Storage/MySqlDatabaseTaskStorage.php" />
       <change beforePath="$PROJECT_DIR$/todo/index.php" afterPath="$PROJECT_DIR$/todo/index.php" />
     </list>
@@ -36,11 +35,11 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/todo/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="612">
-              <caret line="34" column="22" lean-forward="false" selection-start-line="34" selection-start-column="22" selection-end-line="34" selection-end-column="22" />
+            <state relative-caret-position="684">
+              <caret line="38" column="33" lean-forward="false" selection-start-line="38" selection-start-column="33" selection-end-line="38" selection-end-column="33" />
               <folding>
                 <element signature="e#7#28#0#PHP" expanded="true" />
-                <marker date="1515139519778" expanded="true" signature="400:419" ph="SELECT * FRO... tasks" />
+                <marker date="1515140096515" expanded="true" signature="400:419" ph="SELECT * FRO... tasks" />
               </folding>
             </state>
           </provider>
@@ -59,12 +58,13 @@
       <file leaf-file-name="MySqlDatabaseTaskStorage.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/todo/app/Storage/MySqlDatabaseTaskStorage.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-90">
-              <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+            <state relative-caret-position="432">
+              <caret line="36" column="5" lean-forward="true" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
               <folding>
                 <element signature="e#32#41#0#PHP" expanded="true" />
-                <marker date="1515139305092" expanded="true" signature="377:474" ph="INSERT INTO tasks... " />
-                <marker date="1515139305092" expanded="true" signature="933:994" ph="SELECT id, d... tasks" />
+                <marker date="1515139998862" expanded="true" signature="377:474" ph="INSERT INTO tasks... " />
+                <marker date="1515139998862" expanded="true" signature="893:980" ph="SELECT id, d... tasks" />
+                <marker date="1515139998862" expanded="true" signature="1258:1319" ph="SELECT id, d... tasks" />
               </folding>
             </state>
           </provider>
@@ -266,12 +266,12 @@
       <workItem from="1514963313199" duration="3438000" />
       <workItem from="1514975970936" duration="2781000" />
       <workItem from="1515051415890" duration="651000" />
-      <workItem from="1515136594804" duration="2946000" />
+      <workItem from="1515136594804" duration="3728000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="87988000" />
+    <option name="totallyTimeSpent" value="88770000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -599,23 +599,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/todo/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="34" column="22" lean-forward="false" selection-start-line="34" selection-start-column="22" selection-end-line="34" selection-end-column="22" />
+        <state relative-caret-position="684">
+          <caret line="38" column="33" lean-forward="false" selection-start-line="38" selection-start-column="33" selection-end-line="38" selection-end-column="33" />
           <folding>
             <element signature="e#7#28#0#PHP" expanded="true" />
-            <marker date="1515139519778" expanded="true" signature="400:419" ph="SELECT * FRO... tasks" />
+            <marker date="1515140096515" expanded="true" signature="400:419" ph="SELECT * FRO... tasks" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/todo/app/Storage/MySqlDatabaseTaskStorage.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-90">
-          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        <state relative-caret-position="432">
+          <caret line="36" column="5" lean-forward="true" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
           <folding>
             <element signature="e#32#41#0#PHP" expanded="true" />
-            <marker date="1515139305092" expanded="true" signature="377:474" ph="INSERT INTO tasks... " />
-            <marker date="1515139305092" expanded="true" signature="933:994" ph="SELECT id, d... tasks" />
+            <marker date="1515139998862" expanded="true" signature="377:474" ph="INSERT INTO tasks... " />
+            <marker date="1515139998862" expanded="true" signature="893:980" ph="SELECT id, d... tasks" />
+            <marker date="1515139998862" expanded="true" signature="1258:1319" ph="SELECT id, d... tasks" />
           </folding>
         </state>
       </provider>
