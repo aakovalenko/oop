@@ -40,12 +40,12 @@ var_dump($storage->get($taskId));*/
 
 
 //UPDATE
-/*$task = $storage->get(4);
-$task->setDescription('Learn php');
-$task->setDue(new DateTime('+15 year'));
-$task->setComplete();
+$task = $storage->get(6);
+$task->setDescription('Drink even more coffee');
+$task->setDue(new DateTime('+2 year'));
+$task->setComplete(false);
 
-var_dump($storage->update($task));*/
+var_dump($storage->update($task));
 
 
 
