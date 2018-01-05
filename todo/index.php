@@ -28,15 +28,24 @@ foreach ($tasks->fetchAll() as $task) {
 
 $storage = new MySqlDatabaseTaskStorage($db);
 
-
-$task = new Task();
+//INSERT
+/*$task = new Task();
 $task->setDescription('Drink coffee ');
 $task->setDue(new DateTime('+ 10 minutes'));
 $task->setComplete(1);
 
 $taskId = $storage->store($task);
 
-var_dump($storage->get($taskId));
+var_dump($storage->get($taskId));*/
+
+
+//UPDATE
+/*$task = $storage->get(4);
+$task->setDescription('Learn php');
+$task->setDue(new DateTime('+15 year'));
+$task->setComplete();
+
+var_dump($storage->update($task));*/
 
 
 

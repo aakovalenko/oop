@@ -32,14 +32,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/todo/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="684">
-              <caret line="38" column="33" lean-forward="false" selection-start-line="38" selection-start-column="33" selection-end-line="38" selection-end-column="33" />
+            <state relative-caret-position="526">
+              <caret line="39" column="0" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
               <folding>
                 <element signature="e#7#28#0#PHP" expanded="true" />
-                <marker date="1515140096515" expanded="true" signature="400:419" ph="SELECT * FRO... tasks" />
+                <marker date="1515141225634" expanded="true" signature="400:419" ph="SELECT * FRO... tasks" />
               </folding>
             </state>
           </provider>
@@ -55,16 +55,17 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MySqlDatabaseTaskStorage.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MySqlDatabaseTaskStorage.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/todo/app/Storage/MySqlDatabaseTaskStorage.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="36" column="5" lean-forward="true" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
+            <state relative-caret-position="688">
+              <caret line="52" column="11" lean-forward="true" selection-start-line="52" selection-start-column="11" selection-end-line="52" selection-end-column="11" />
               <folding>
                 <element signature="e#32#41#0#PHP" expanded="true" />
-                <marker date="1515139998862" expanded="true" signature="377:474" ph="INSERT INTO tasks... " />
-                <marker date="1515139998862" expanded="true" signature="893:980" ph="SELECT id, d... tasks" />
-                <marker date="1515139998862" expanded="true" signature="1258:1319" ph="SELECT id, d... tasks" />
+                <marker date="1515141033387" expanded="true" signature="377:474" ph="INSERT INTO tasks... " />
+                <marker date="1515141033387" expanded="true" signature="850:1014" ph="UPDATE tasks... " />
+                <marker date="1515141033387" expanded="true" signature="1432:1519" ph="SELECT id, d... tasks" />
+                <marker date="1515141033387" expanded="true" signature="1797:1858" ph="SELECT id, d... tasks" />
               </folding>
             </state>
           </provider>
@@ -266,12 +267,12 @@
       <workItem from="1514963313199" duration="3438000" />
       <workItem from="1514975970936" duration="2781000" />
       <workItem from="1515051415890" duration="651000" />
-      <workItem from="1515136594804" duration="3728000" />
+      <workItem from="1515136594804" duration="4631000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="88770000" />
+    <option name="totallyTimeSpent" value="89673000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -597,26 +598,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/todo/index.php">
+    <entry file="file://$PROJECT_DIR$/todo/app/Storage/MySqlDatabaseTaskStorage.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="684">
-          <caret line="38" column="33" lean-forward="false" selection-start-line="38" selection-start-column="33" selection-end-line="38" selection-end-column="33" />
+        <state relative-caret-position="688">
+          <caret line="52" column="11" lean-forward="true" selection-start-line="52" selection-start-column="11" selection-end-line="52" selection-end-column="11" />
           <folding>
-            <element signature="e#7#28#0#PHP" expanded="true" />
-            <marker date="1515140096515" expanded="true" signature="400:419" ph="SELECT * FRO... tasks" />
+            <element signature="e#32#41#0#PHP" expanded="true" />
+            <marker date="1515141033387" expanded="true" signature="377:474" ph="INSERT INTO tasks... " />
+            <marker date="1515141033387" expanded="true" signature="850:1014" ph="UPDATE tasks... " />
+            <marker date="1515141033387" expanded="true" signature="1432:1519" ph="SELECT id, d... tasks" />
+            <marker date="1515141033387" expanded="true" signature="1797:1858" ph="SELECT id, d... tasks" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/todo/app/Storage/MySqlDatabaseTaskStorage.php">
+    <entry file="file://$PROJECT_DIR$/todo/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="36" column="5" lean-forward="true" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
+        <state relative-caret-position="526">
+          <caret line="39" column="0" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
           <folding>
-            <element signature="e#32#41#0#PHP" expanded="true" />
-            <marker date="1515139998862" expanded="true" signature="377:474" ph="INSERT INTO tasks... " />
-            <marker date="1515139998862" expanded="true" signature="893:980" ph="SELECT id, d... tasks" />
-            <marker date="1515139998862" expanded="true" signature="1258:1319" ph="SELECT id, d... tasks" />
+            <element signature="e#7#28#0#PHP" expanded="true" />
+            <marker date="1515141225634" expanded="true" signature="400:419" ph="SELECT * FRO... tasks" />
           </folding>
         </state>
       </provider>
