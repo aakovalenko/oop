@@ -25,7 +25,7 @@ class MySqlDatabaseTaskStorage implements TaskStorageInterface
 
         $statement->execute($this->buildColumns($task));
 
-        return $this->db->lastInsertId();
+        return $this->get($this->db->lastInsertId());
 
     }
 
