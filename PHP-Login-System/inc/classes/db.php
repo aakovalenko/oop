@@ -1,4 +1,6 @@
 <?php
+
+
  class DB
  {
      protected static $conn;

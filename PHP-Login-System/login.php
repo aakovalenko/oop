@@ -20,8 +20,9 @@ require_once "inc/config.php";
 </head>
 <body>
 <br><br><br><br><br>
-<h2>Login</h2>
+
 <div class="container">
+    <h2>Login</h2>
     <form>
         <div class="form-group">
             <label for="exampleInputEmail1">Email address</label>
