@@ -21,7 +21,7 @@ require_once "inc/config.php";
 <body>
 <br><br><br><br><br>
 <div class="container">
-    <p>Hello, today is <?php echo date('Y-m-d');?></p>
+    <p>Hello, today is: <?php echo date('Y-m-d');?></p>
     <a href="./login.php">Login</a>
     <a href="./register.php">Registration</a>
 </div>
