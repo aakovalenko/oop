@@ -2,213 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f3f3ad9b-e7dc-4410-9665-4be51046a00a" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/oop.iml" afterPath="$PROJECT_DIR$/.idea/oop.iml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/lesson04/01/java/demo01.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/01/java/demo02.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/01/java/demo03.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/01/php/demo01.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/01/php/demo02.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/01/php/demo03.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/01/php/demo04/graphics/Canvas.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/01/php/demo04/graphics/Point.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/01/php/demo04/index.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/01/php/demo04/points/Point.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/01/php/demo05/graphics/Canvas.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/01/php/demo05/graphics/Point.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/01/php/demo05/index.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/01/php/demo05/points/Point.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/01/php/demo06/graphics/Canvas.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/01/php/demo06/graphics/Point.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/01/php/demo06/index.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/01/php/demo06/points/Point.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/01/php/demo07/graphics/Canvas.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/01/php/demo07/graphics/Point.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/01/php/demo07/index.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/01/php/demo07/points/Point.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/01/php/demo08/composer.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/01/php/demo08/graphics/Canvas.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/01/php/demo08/graphics/Point.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/01/php/demo08/index.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/01/php/demo08/points/Point.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/01/php/demo08/vendor/autoload.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/01/php/demo08/vendor/composer/ClassLoader.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/01/php/demo08/vendor/composer/LICENSE" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/01/php/demo08/vendor/composer/autoload_classmap.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/01/php/demo08/vendor/composer/autoload_namespaces.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/01/php/demo08/vendor/composer/autoload_psr4.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/01/php/demo08/vendor/composer/autoload_real.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/01/php/demo08/vendor/composer/installed.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/02/demo01/CartController.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/02/demo02/CartController.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/02/demo03/cart/Cart.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/02/demo03/composer.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/02/demo03/index.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/02/demo03/vendor/autoload.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/02/demo03/vendor/composer/ClassLoader.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/02/demo03/vendor/composer/LICENSE" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/02/demo03/vendor/composer/autoload_classmap.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/02/demo03/vendor/composer/autoload_namespaces.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/02/demo03/vendor/composer/autoload_psr4.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/02/demo03/vendor/composer/autoload_real.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/02/demo03/vendor/composer/installed.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/02/demo04/cart/Cart.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/02/demo04/composer.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/02/demo04/index.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/02/demo04/phpunit.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/02/demo04/tests/CartTest.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/02/demo04/tests/bootstrap.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/02/demo04/vendor/autoload.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/02/demo04/vendor/composer/ClassLoader.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/02/demo04/vendor/composer/LICENSE" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/02/demo04/vendor/composer/autoload_classmap.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/02/demo04/vendor/composer/autoload_namespaces.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/02/demo04/vendor/composer/autoload_psr4.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/02/demo04/vendor/composer/autoload_real.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/02/demo04/vendor/composer/installed.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/02/demo05/cart/Cart.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/02/demo05/cart/SymfonyCart.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/02/demo05/cart/SymfonyHybridCart.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/02/demo05/cart/YiiCart.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/02/demo05/cart/YiiHybridCart.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/02/demo05/composer.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/02/demo05/index.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/02/demo05/phpunit.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/02/demo05/tests/CartTest.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/02/demo05/tests/bootstrap.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/02/demo05/vendor/autoload.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/02/demo05/vendor/composer/ClassLoader.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/02/demo05/vendor/composer/LICENSE" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/02/demo05/vendor/composer/autoload_classmap.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/02/demo05/vendor/composer/autoload_namespaces.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/02/demo05/vendor/composer/autoload_psr4.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/02/demo05/vendor/composer/autoload_real.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/02/demo05/vendor/composer/installed.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/02/demo06/cart/Cart.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/02/demo06/cart/CartItem.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/02/demo06/composer.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/02/demo06/index.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/02/demo06/phpunit.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/02/demo06/tests/CartTest.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/02/demo06/tests/bootstrap.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/02/demo06/vendor/autoload.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/02/demo06/vendor/composer/ClassLoader.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/02/demo06/vendor/composer/LICENSE" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/02/demo06/vendor/composer/autoload_classmap.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/02/demo06/vendor/composer/autoload_namespaces.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/02/demo06/vendor/composer/autoload_psr4.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/02/demo06/vendor/composer/autoload_real.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/02/demo06/vendor/composer/installed.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/02/demo07/cart/Cart.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/02/demo07/cart/CartItem.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/02/demo07/cart/storage/SessionStorage.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/02/demo07/cart/storage/StorageInterface.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/02/demo07/cart/storage/YiiDbStorage.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/02/demo07/cart/storage/YiiHybridStorage.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/02/demo07/cart/storage/YiiSessionStorage.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/02/demo07/composer.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/02/demo07/index.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/02/demo07/phpunit.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/02/demo07/tests/CartTest.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/02/demo07/tests/bootstrap.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/02/demo07/tests/storage/SessionStorageTest.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/02/demo07/vendor/autoload.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/02/demo07/vendor/composer/ClassLoader.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/02/demo07/vendor/composer/LICENSE" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/02/demo07/vendor/composer/autoload_classmap.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/02/demo07/vendor/composer/autoload_namespaces.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/02/demo07/vendor/composer/autoload_psr4.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/02/demo07/vendor/composer/autoload_real.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/02/demo07/vendor/composer/installed.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/02/demo08/cart/Cart.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/02/demo08/cart/CartItem.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/02/demo08/cart/cost/CalculatorInterface.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/02/demo08/cart/cost/SimpleCost.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/02/demo08/cart/storage/SessionStorage.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/02/demo08/cart/storage/StorageInterface.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/02/demo08/cart/storage/YiiDbStorage.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/02/demo08/cart/storage/YiiHybridStorage.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/02/demo08/cart/storage/YiiSessionStorage.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/02/demo08/composer.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/02/demo08/index.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/02/demo08/phpunit.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/02/demo08/tests/CartTest.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/02/demo08/tests/bootstrap.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/02/demo08/tests/cost/SimpleCostTest.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/02/demo08/tests/storage/SessionStorageTest.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/02/demo08/vendor/autoload.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/02/demo08/vendor/composer/ClassLoader.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/02/demo08/vendor/composer/LICENSE" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/02/demo08/vendor/composer/autoload_classmap.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/02/demo08/vendor/composer/autoload_namespaces.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/02/demo08/vendor/composer/autoload_psr4.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/02/demo08/vendor/composer/autoload_real.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/02/demo08/vendor/composer/installed.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/02/demo09/cart/Cart.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/02/demo09/cart/CartItem.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/02/demo09/cart/cost/BirthdayCost.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/02/demo09/cart/cost/CalculatorInterface.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/02/demo09/cart/cost/FridayCost.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/02/demo09/cart/cost/SimpleCost.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/02/demo09/cart/storage/SessionStorage.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/02/demo09/cart/storage/StorageInterface.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/02/demo09/cart/storage/YiiDbStorage.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/02/demo09/cart/storage/YiiHybridStorage.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/02/demo09/cart/storage/YiiSessionStorage.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/02/demo09/composer.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/02/demo09/index.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/02/demo09/phpunit.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/02/demo09/tests/CartTest.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/02/demo09/tests/bootstrap.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/02/demo09/tests/cost/BirthdayCostTest.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/02/demo09/tests/cost/DummyCost.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/02/demo09/tests/cost/FridayCostTest.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/02/demo09/tests/cost/SimpleCostTest.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/02/demo09/tests/storage/SessionStorageTest.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/02/demo09/vendor/autoload.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/02/demo09/vendor/composer/ClassLoader.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/02/demo09/vendor/composer/LICENSE" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/02/demo09/vendor/composer/autoload_classmap.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/02/demo09/vendor/composer/autoload_namespaces.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/02/demo09/vendor/composer/autoload_psr4.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/02/demo09/vendor/composer/autoload_real.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/02/demo09/vendor/composer/installed.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/03/demo01.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/03/demo02.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/03/demo03.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/03/demo04.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lesson04/result.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/practicalOOP/app/Models/Task.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/practicalOOP/app/Models/User.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/practicalOOP/app/Storage/DateBaseTaskStorage.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/practicalOOP/app/TaskManager.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/practicalOOP/composer.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/practicalOOP/index.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/practicalOOP/vendor/autoload.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/practicalOOP/vendor/composer/ClassLoader.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/practicalOOP/vendor/composer/LICENSE" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/practicalOOP/vendor/composer/autoload_classmap.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/practicalOOP/vendor/composer/autoload_namespaces.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/practicalOOP/vendor/composer/autoload_psr4.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/practicalOOP/vendor/composer/autoload_real.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/practicalOOP/vendor/composer/autoload_static.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/practicalOOP/vendor/composer/installed.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/todo/app/Models/Task.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/todo/app/Storage/Contracts/TaskStorageInterface.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/todo/app/Storage/MySqlDatabaseTaskStorage.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/todo/app/TaskManager.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/todo/composer.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/todo/index.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/todo/vendor/autoload.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/todo/vendor/composer/ClassLoader.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/todo/vendor/composer/LICENSE" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/todo/vendor/composer/autoload_classmap.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/todo/vendor/composer/autoload_namespaces.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/todo/vendor/composer/autoload_psr4.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/todo/vendor/composer/autoload_real.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/todo/vendor/composer/autoload_static.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/todo/vendor/composer/installed.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/xdebug" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/PHP-Login-System/index.php" afterPath="$PROJECT_DIR$/PHP-Login-System/index.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -250,8 +45,38 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/PHP-Login-System/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="468">
-              <caret line="26" column="7" lean-forward="false" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
+            <state relative-caret-position="414">
+              <caret line="23" column="45" lean-forward="false" selection-start-line="23" selection-start-column="45" selection-end-line="23" selection-end-column="45" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PHP-Login-System/inc/config.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PHP-Login-System/login.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="13" column="16" lean-forward="false" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="register.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PHP-Login-System/register.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="612">
+              <caret line="34" column="62" lean-forward="false" selection-start-line="34" selection-start-column="62" selection-end-line="34" selection-end-column="62" />
               <folding />
             </state>
           </provider>
@@ -300,6 +125,9 @@
         <option value="$PROJECT_DIR$/todo/index.php" />
         <option value="$PROJECT_DIR$/gitignore.txt" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/PHP-Login-System/inc/config.php" />
+        <option value="$PROJECT_DIR$/PHP-Login-System/login.php" />
+        <option value="$PROJECT_DIR$/PHP-Login-System/register.php" />
         <option value="$PROJECT_DIR$/PHP-Login-System/index.php" />
       </list>
     </option>
@@ -317,8 +145,8 @@
     </include_path>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="108" />
-    <option name="y" value="85" />
+    <option name="x" value="83" />
+    <option name="y" value="63" />
     <option name="width" value="1812" />
     <option name="height" value="1028" />
   </component>
@@ -345,6 +173,11 @@
             <path>
               <item name="oop" type="b2602c69:ProjectViewProjectNode" />
               <item name="oop" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="oop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oop" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="PHP-Login-System" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="oop" type="b2602c69:ProjectViewProjectNode" />
@@ -423,12 +256,12 @@
       <workItem from="1514975970936" duration="2781000" />
       <workItem from="1515051415890" duration="651000" />
       <workItem from="1515136594804" duration="11449000" />
-      <workItem from="1517402495734" duration="1503000" />
+      <workItem from="1517402495734" duration="3710000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="97994000" />
+    <option name="totallyTimeSpent" value="100201000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -440,7 +273,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="108" y="85" width="1812" height="1028" extended-state="0" />
+    <frame x="83" y="63" width="1812" height="1028" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21687429" sideWeight="0.4963351" order="0" side_tool="false" content_ui="combo" />
@@ -474,9 +307,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/lesson04/02/demo05/index.php" />
-    <entry file="file://$PROJECT_DIR$/lesson04/02/demo06/cart/Cart.php" />
-    <entry file="file://$PROJECT_DIR$/lesson04/02/demo06/cart/CartItem.php" />
     <entry file="file://$PROJECT_DIR$/lesson04/02/demo07/index.php" />
     <entry file="file://$PROJECT_DIR$/lesson04/02/demo07/composer.json" />
     <entry file="file://$PROJECT_DIR$/lesson04/02/demo07/phpunit.xml" />
@@ -531,10 +361,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/PHP-Login-System/inc/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP-Login-System/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="16" lean-forward="false" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP-Login-System/register.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="34" column="62" lean-forward="false" selection-start-line="34" selection-start-column="62" selection-end-line="34" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/PHP-Login-System/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="26" column="7" lean-forward="false" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
+        <state relative-caret-position="414">
+          <caret line="23" column="45" lean-forward="false" selection-start-line="23" selection-start-column="45" selection-end-line="23" selection-end-column="45" />
           <folding />
         </state>
       </provider>
