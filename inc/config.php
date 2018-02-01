@@ -10,4 +10,4 @@
 //include bd php file
 include_once "./classes/db.php";
 
-    $conn = DB::getConnection();
+

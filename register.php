@@ -23,7 +23,7 @@ require_once "inc/config.php";
 
 <div class="container">
     <h2>Register</h2>
-    <form>
+    <form class="js-register">
         <div class="form-group">
             <label for="exampleInputEmail1">Email address</label>
             <input type="email" class="form-control" id="email1" aria-describedby="emailHelp" placeholder="Enter email">
@@ -38,3 +38,5 @@ require_once "inc/config.php";
 </div>
 </body>
 </html>
+
+<script src="/assets/js/main.js"></script>

@@ -27,3 +27,6 @@ require_once "inc/config.php";
 </div>
 </body>
 </html>
+
+<script src="/assets/js/main.js"></script>
+
