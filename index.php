@@ -24,6 +24,7 @@ require_once "inc/config.php";
     <p>Hello, today is: <?php echo date('Y-m-d');?></p>
     <a href="./login.php">Login</a>
     <a href="./register.php">Registration</a>
+    <a href="./ajax.php"> Ajax</a>
 </div>
 </body>
 </html>

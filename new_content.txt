@@ -1,0 +1,1 @@
+This is a new content which has been loaded by ajax
