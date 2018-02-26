@@ -31,11 +31,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="test.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="test.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="342">
               <caret line="19" column="99" lean-forward="false" selection-start-line="19" selection-start-column="99" selection-end-line="19" selection-end-column="99" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="json.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/json.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="9" column="2" lean-forward="true" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="consumeJSON.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/consumeJSON.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="5" column="32" lean-forward="false" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
               <folding />
             </state>
           </provider>
@@ -57,8 +77,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/todo/app/Storage/MySqlDatabaseTaskStorage.php" />
-        <option value="$PROJECT_DIR$/todo/app/TaskManager.php" />
         <option value="$PROJECT_DIR$/todo/index.php" />
         <option value="$PROJECT_DIR$/gitignore.txt" />
         <option value="$PROJECT_DIR$/PHP-Login-System/login.php" />
@@ -108,6 +126,8 @@
         <option value="$PROJECT_DIR$/firstAjax.html" />
         <option value="$PROJECT_DIR$/consumeSquareService.html" />
         <option value="$PROJECT_DIR$/test.html" />
+        <option value="$PROJECT_DIR$/consumeJSON.html" />
+        <option value="$PROJECT_DIR$/json.php" />
       </list>
     </option>
   </component>
@@ -266,12 +286,13 @@
       <workItem from="1519637218877" duration="1440000" />
       <workItem from="1519639098463" duration="805000" />
       <workItem from="1519646704159" duration="1323000" />
-      <workItem from="1519648608811" duration="11000" />
+      <workItem from="1519648608811" duration="920000" />
+      <workItem from="1519650487006" duration="1697000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="169089000" />
+    <option name="totallyTimeSpent" value="171695000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -286,7 +307,7 @@
     <frame x="65" y="42" width="1851" height="992" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14293629" sideWeight="0.4963351" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14459834" sideWeight="0.4963351" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32901832" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32560834" sideWeight="0.5041459" order="7" side_tool="true" content_ui="tabs" />
@@ -319,8 +340,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/practicalOOP/app/Models/Task.php" />
-    <entry file="file://$PROJECT_DIR$/practicalOOP/app/Storage/DateBaseTaskStorage.php" />
     <entry file="file://$PROJECT_DIR$/practicalOOP/app/TaskManager.php" />
     <entry file="file://$PROJECT_DIR$/practicalOOP/app/Models/User.php" />
     <entry file="file://$PROJECT_DIR$/practicalOOP/index.php" />
@@ -415,6 +434,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
           <caret line="19" column="99" lean-forward="false" selection-start-line="19" selection-start-column="99" selection-end-line="19" selection-end-column="99" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/consumeJSON.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="32" lean-forward="false" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/json.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="2" lean-forward="true" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
           <folding />
         </state>
       </provider>

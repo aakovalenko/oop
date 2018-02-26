@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Consume JSON Object</title>
+    <script language="JavaScript" type="text/javascript">
+        var xmlhttp;
+
+        function makeCall() {
+            xmlhttp = new XMLHttpRequest();
+            xmlhttp.onreadystatechange = infoReturned;
+
+            xmlhttp.open("GET", "json.php", true);
+            xmlhttp.send();
+        }
+
+        function infoReturned() {
+            if (xmlhttp.readyState == 4 && xmlhttp.status == 200) {
+                var jsonResponse = xmlhttp.responseText;
+                jsonResponse = eval("(" + jsonResponse + ")");
+                var output = ""
+                output += "First Name: " + jsonResponse.firstName;
+                output += "Last Name: " + jsonResponse.lastName;
+                output += "<br/>Company: " + jsonResponse.company;
+                output += "<br/>Age: " + jsonResponse.age;
+
+                document.getElementById("result").innerHTML = output;
+            }
+        }
+    </script>
+</head>
+<body>
+<div id="result"></div>
+<input type="button" value="Call JSON Object" onclick="makeCall()"/>
+</body>
+</html>
