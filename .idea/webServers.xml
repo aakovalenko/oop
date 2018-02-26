@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="ed43f29f-0c5a-4c22-8a7e-38a3bb9cbee7" name="ums.react-logic.com (project level)" url="http://ums.react-logic.com">
+        <fileTransfer host="ums.react-logic.com" port="22" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
